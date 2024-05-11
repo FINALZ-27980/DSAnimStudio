@@ -1,0 +1,6 @@
+[submodule "MeowDSIO"]
+	path = MeowDSIO
+	url = https://github.com/Meowmaritus/MeowDSIO
+[submodule "SoulsAssetPipeline"]
+	path = SoulsAssetPipeline
+	url = https://github.com/Meowmaritus/SoulsAssetPipeline
